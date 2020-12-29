@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Vishal Beriya",
+      "title": "Software Engineering",
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/vpberiya",
+          "class": "fab fa-github"
+        }
+      ],
+      "image": "/vbLogo.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Jquery",
+          "class": "devicon-jquery-plain",
+          "level": "80"
+        },        
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "90"
+        },        
+        {
+          "name": "Php",
+          "class": "devicon-php-plain",
+          "level": "85"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
