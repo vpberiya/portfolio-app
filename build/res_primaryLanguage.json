@@ -1,0 +1,130 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Vishal Beriya. Fictional person for preview purposes :) I'm working with E-commerce frameworks like Magento, Shopify and also working with the newest front-end  React frameworks. What you are seeing now is a portfolio template from vpberiya. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Slide Team",
+        "startDate": "2020",
+        "description": "Slide Team E-commerce website project for presentation and resume and brochures etc types of products. I had to develop frontend and backend implementation for a website  This project in the Magento framework.",
+        "images": [
+          "/images/portfolio/Slideteam/Slideteam.gif",
+          "/images/portfolio/Slideteam/Slide01.jpg"
+        ],
+        "url": "https://www.slideteam.net/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "Php"
+          }
+        ]
+      },
+      {
+        "title": "Fine & Able",
+        "startDate": "2019",
+        "description": "Fine & Able  E-commerce website project for bathroom and kitchen accessories. I had to develop frontend and backend implementation for a website  This project in the Shopify framework.",
+        "images": [
+          "/images/portfolio/FineAndAble/FineAble.svg",
+          "/images/portfolio/FineAndAble/Kitchen.jpg",
+          "/images/portfolio/FineAndAble/Bathroom.jpg"
+        ],
+        "url": "https://fineandable.co.uk/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          }
+        ]
+      },
+      {
+        "title": "Saloni World",
+        "startDate": "2019",
+        "description": "One of the first E-commerce website project for womenswear I was working on after the internship. I had to develop frontend and backend implementation for a website that shows configurable types of products. This was also my first project in the Shopify framework. I've learned a lot!",
+        "images": [
+          "/images/portfolio/SaloniWorld/saloniWorld.svg"
+        ],
+        "url": "https://saloniworld.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "TatvaSoft",
+        "title": "Software Engineering",
+        "years": "07.2019 - present",
+        "mainTech": [
+          "Shopify & Magento & PWA Studio"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Jquery",
+          "knockout",
+          "React",        
+          "PHP",
+          "Liquid",
+          "Node",
+          "REST API",
+          "GraphQl"
+        ]
+      },
+      {
+        "company": "TatvaSoft",
+        "title": "Intern",
+        "years": "01.2019 - 06.2019",
+        "mainTech": [
+          "Training Project"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "JavaScript",
+          "Jquery",
+          "Ajax",
+          "PHP"
+        ]
+      }
+    ]
+  }
